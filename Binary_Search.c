@@ -87,8 +87,6 @@ int main()
     printf("\nEnter value to find  :");
     scanf("%d", &y);
 
-
-
     // // For binary Search
     // start = clock();
     // binary_search(r, size, y);
